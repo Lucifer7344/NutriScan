@@ -1,4 +1,4 @@
-## Food Image Nutrition Tracker  
+## NutriScan 
 
 An **AI-powered Streamlit application** that estimates the nutritional values of food items from images, including **calories, protein, carbohydrates, and fat**.  
 
