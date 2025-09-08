@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+myenv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and local settings
+*.log
+*.sqlite3
+*.db
+.DS_Store
+*.env
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Uploads and generated files
+static/uploads/
+uploads/
+*.bak
+*.tmp
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# Models and cache
+*.pth
+*.pt
+*.keras
+*.ckpt
+*.h5
+*.onnx
+.cache/
